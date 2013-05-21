@@ -1,8 +1,3 @@
-Icon Font Sites
-===============
-
-List of free icon font websites
-
 #Fonts
 * Font Awesome - http://fortawesome.github.io/Font-Awesome/
 * Foundation Icons - http://zurb.com/playground/foundation-icons
@@ -16,7 +11,7 @@ List of free icon font websites
  
 #Generators
 * Fontello - http://fontello.com/
-* Icomoon - icomoon.io
+* Icomoon - http://icomoon.io
 
 #Group of fonts
 * We love icon fonts - http://weloveiconfonts.com/
