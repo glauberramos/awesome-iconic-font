@@ -20,3 +20,4 @@ List of free icon font websites
 
 #Group of fonts
 * We love icon fonts - http://weloveiconfonts.com/
+* List of icons and font icons - http://css-tricks.com/flat-icons-icon-fonts/
