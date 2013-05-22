@@ -12,6 +12,7 @@
 #Generators
 * Fontello - http://fontello.com/
 * Icomoon - http://icomoon.io
+* Font Squirrel - http://www.fontsquirrel.com/
 
 #Group of fonts
 * We love icon fonts - http://weloveiconfonts.com/
