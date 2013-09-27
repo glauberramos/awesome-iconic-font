@@ -8,6 +8,7 @@
 * Typicons - http://typicons.com/
 * Brandico - http://fontello.github.io/brandico.font/demo.html
 * US State Face - http://propublica.github.io/stateface/
+* Iconic - http://useiconic.com/
  
 #Generators
 * Fontello - http://fontello.com/
