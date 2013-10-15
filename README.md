@@ -9,7 +9,8 @@
 * Brandico - http://fontello.github.io/brandico.font/demo.html
 * US State Face - http://propublica.github.io/stateface/
 * Iconic - http://useiconic.com/
- 
+* Weather Icons - https://github.com/erikflowers/weather-icons/ 
+
 #Generators
 * Fontello - http://fontello.com/
 * Icomoon - http://icomoon.io
