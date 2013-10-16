@@ -10,6 +10,7 @@
 * US State Face - http://propublica.github.io/stateface/
 * Iconic - http://useiconic.com/
 * Weather Icons - https://github.com/erikflowers/weather-icons/ 
+* Symbol Set http://symbolset.com/
 
 #Generators
 * Fontello - http://fontello.com/
