@@ -12,6 +12,7 @@
 * Weather Icons - https://github.com/erikflowers/weather-icons/ 
 * Symbol Set - http://symbolset.com/
 * Stack - http://stackicons.com/
+* Ionic - http://ionicons.com/
 
 #Generators
 * Fontello - http://fontello.com/
